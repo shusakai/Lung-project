@@ -6,7 +6,7 @@ Welcome! Here, we present our study of single-cell spatial transcriptomics analy
 
 This repository includes code folder:
 
-[Code](https://github.com/shusakai/LYM-project/tree/main/code)
+[Code](https://github.com/shusakai/Lung-project/tree/master/code)
 
 - The Jupyter Notebook for our analyses.
 
